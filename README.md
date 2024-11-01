@@ -31,7 +31,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gacastro1/gacastro1/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
