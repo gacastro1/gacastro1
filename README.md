@@ -1,6 +1,6 @@
 ## Olá, eu sou o Gabriel Castro!
 
-- 🌱 Estudando Banco de Dados
+- 🌱 Estudando Banco de Dados / Business intelligence
 - 📫 Contate-me no email: gcastrowork1@gmail.com
 - 😄 Pronomes: ele/dele
 
